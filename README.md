@@ -1,4 +1,4 @@
 # Project-demo
 This is my first Git Repository.
 <br>
-Author - Keshav Bansal
+Author - Keshav Bansal (Thapar)
